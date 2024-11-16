@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/StorageAccount/StorageAccount/bin/Debug/net8.0
+/StorageAccount/StorageAccount/obj
+/StorageAccount/.vs/StorageAccount
